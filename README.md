@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://i.imgur.com/Ou7ZGox.png" width="1078" height="433" alt="POWER"></p>
 
-## Features And Methods
+## Özellikler ve Yöntemler
 
 * 🧨 Layer1: 
   * <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="16" height="16" alt="mcbot"> MCBOT | Minecraft Bot Attack
