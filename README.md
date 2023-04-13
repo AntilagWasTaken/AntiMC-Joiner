@@ -5,7 +5,7 @@
   
 <p align="center">Lütfen büyük sunuculara izinleri olmadan saldırmayın.</p>
 
-<p align="center"><img src="https://i.imgur.com/nR8sSph.png" width="1078" height="433" alt="POWER"></p>
+<p align="center"><img src="https://i.imgur.com/Ou7ZGox.png" width="1078" height="433" alt="POWER"></p>
 
 ## Features And Methods
 
