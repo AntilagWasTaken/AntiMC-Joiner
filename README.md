@@ -36,7 +36,7 @@
 
 ```shell script
 git clone https://github.com/AntilagWasTaken/AntiMC-Joiner.git
-cd AntiMC
+cd AntiMC-Joiner
 pip install -r requirements.txt
 ```
 
